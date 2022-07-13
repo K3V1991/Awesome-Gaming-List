@@ -121,7 +121,7 @@
 * [**ShareX**](https://getsharex.com/) – Lets you capture or record any Area of your Screen and share it with a single Press of a Key.
 <br />
 
-## ⌨️ Conrtols:
+## ⌨️ Controls:
 * [**DS4Windows**](https://ds4-windows.com/get-started/) – DS4Windows is an Gamepad Input Mapper and Virtual Emulator designed to use and connect your PlayStation Controller (DualShock 3/4 and DualSense 5) to a Windows 10 and 11 PC.
 
 * [**SharpKeys**](https://github.com/randyrants/sharpkeys) – A Utility that manages a Registry Key that allows Windows to remap one Key to any other Key.
