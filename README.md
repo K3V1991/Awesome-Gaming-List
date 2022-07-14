@@ -72,6 +72,8 @@
 
 * [**NVIDIA Profile Inspector**](https://github.com/Orbmu2k/nvidiaProfileInspector) – This Tool is used for modifying Game Profiles inside the internal Driver Database of the NVIDIA Driver.
 
+* [**Razer Cortex**](https://github.com/K3V1991/Increase-Perfomance-on-Windows) – Enhance your Play by boosting your System Performance and discover the best Gaming Deals - all on one powerful Platform.
+
 * [**O&O ShutUp10++**](https://www.oo-software.com/en/shutup10) – You decide how Windows 10 and 11 should respect your Privacy by deciding which unwanted Functions should be deactivated.
 <br />
 
