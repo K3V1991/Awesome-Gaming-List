@@ -69,6 +69,8 @@
 * [**NVIDIA GeForce Experience**](https://www.nvidia.com/nl-nl/geforce/geforce-experience/) – Capture and share Videos, Screenshots and Livestreams with Friends. Keep your Drivers up to Date and optimize your Game Settings.
 
 * [**NVIDIA Profile Inspector**](https://github.com/Orbmu2k/nvidiaProfileInspector) – This Tool is used for modifying Game Profiles inside the internal Driver Database of the NVIDIA Driver.
+
+* [**O&O ShutUp10++**](https://www.oo-software.com/en/shutup10) - You decide how Windows 10 and 11 should respect your Privacy by deciding which unwanted Functions should be deactivated.
 <br />
 
 ## 🪛 Mods:
