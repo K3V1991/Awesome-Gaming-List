@@ -4,6 +4,8 @@
 <br />
 
 ## 🔥 General:
+* [**Increase Perfomance on Windows**](https://github.com/K3V1991/Increase-Perfomance-on-Windows) – Tips and Tricks to increase the Performance on Windows
+
 * [**PCGamingWiki**](https://www.pcgamingwiki.com/wiki/Home) – The Site and its Community have attracted some of the most friendly and passionate PC Gamers motivated in helping others with their Problems.
 
 * [**HowLongToBeat**](https://howlongtobeat.com/) – Find out how long a Games will take to complete.
@@ -70,7 +72,7 @@
 
 * [**NVIDIA Profile Inspector**](https://github.com/Orbmu2k/nvidiaProfileInspector) – This Tool is used for modifying Game Profiles inside the internal Driver Database of the NVIDIA Driver.
 
-* [**O&O ShutUp10++**](https://www.oo-software.com/en/shutup10) - You decide how Windows 10 and 11 should respect your Privacy by deciding which unwanted Functions should be deactivated.
+* [**O&O ShutUp10++**](https://www.oo-software.com/en/shutup10) – You decide how Windows 10 and 11 should respect your Privacy by deciding which unwanted Functions should be deactivated.
 <br />
 
 ## 🪛 Mods:
