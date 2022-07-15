@@ -160,7 +160,7 @@
 
 * [**Moonlight**](https://moonlight-stream.org/) – Stream your Collection of PC Games from your GameStream-compatible PC to any supported Device and play them remotely.
 
-* [**Geek Uninstaller**](https://geekuninstaller.com/) – Clean Removal Performs deep and fast Scanning and removes all Leftovers.
+* [**Geek Uninstaller**](https://geekuninstaller.com/) – Clean Removal Performs deep and fast scanning and removes all Leftovers.
 <br />
 
 ## 🕹️ Emulators:
