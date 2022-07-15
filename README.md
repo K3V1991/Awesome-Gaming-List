@@ -139,6 +139,14 @@
 * [**EarTrumpet**](https://eartrumpet.app/) – Software to help Users better manage the Controls of their Computer's Volume.
 <br />
 
+## ✨ Updates:
+* [**WingetUI**](https://github.com/martinet101/WinGetUI) – A Graphical User Interface to manage the most common CLI Package Managers such as Winget and Scoop.
+
+* [**UCheck**](https://www.adlice.com/ucheck/) – UCheck Software Updater detects installed Software and Updates them automatically.
+
+* [**Patch My PC**](https://patchmypc.com/home-updater) – Esy-to-use Program that keeps over 300 Applications up-to-date on your Computer.
+<br />
+
 ## 🧰 Various Tools:
 * [**GameSave Manager**](https://www.gamesave-manager.com/) – Easily backup, restore and transfer your Gamesaves.
 
