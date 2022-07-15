@@ -4,7 +4,7 @@
 <br />
 
 ## 🔥 General:
-* [**Increase Perfomance on Windows**](https://github.com/K3V1991/Increase-Perfomance-on-Windows) – Tips and Tricks to increase the Performance on Windows
+* [**Increase Perfomance on Windows**](https://github.com/K3V1991/Increase-Perfomance-on-Windows) – Tips and Tricks to increase the Performance on Windows.
 
 * [**PCGamingWiki**](https://www.pcgamingwiki.com/wiki/Home) – The Site and its Community have attracted some of the most friendly and passionate PC Gamers motivated in helping others with their Problems.
 
@@ -75,6 +75,8 @@
 * [**AMD Software: Adrenalin Edition**](https://www.amd.com/en/technologies/software) – Designed to provide you with a clean, modern and easy-to-use Interface where you can quickly access the latest Software Features, Game Stats, Performance Reports, Driver Updates and much more.
 
 * [**Razer Cortex**](https://www.razer.com/cortex) – Enhance your Play by boosting your System Performance and discover the best Gaming Deals - all on one powerful Platform.
+
+* [**Autoruns**](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) – This Utility, which has the most comprehensive Knowledge of Auto-starting Locations of any Startup Monitor, shows you what Programs are configured to run during System Bootup or Login.
 
 * [**O&O ShutUp10++**](https://www.oo-software.com/en/shutup10) – You decide how Windows 10 and 11 should respect your Privacy by deciding which unwanted Functions should be deactivated.
 <br />
@@ -157,6 +159,8 @@
 * [**WeMod**](https://www.wemod.com/) – Thousands of free Cheats and Trainers for all your favorite Single-player PC Games.
 
 * [**Moonlight**](https://moonlight-stream.org/) – Stream your Collection of PC Games from your GameStream-compatible PC to any supported Device and play them remotely.
+
+* [**Geek Uninstaller**](https://geekuninstaller.com/) – Clean Removal Performs deep and fast Scanning and removes all Leftovers.
 <br />
 
 ## 🕹️ Emulators:
