@@ -99,6 +99,8 @@
 * [**Discord**](https://discord.com/) – A modern Multiplatform VoIP Application aimed at Gamers. Its features include a beautiful UI with Support for using multiple Servers and Channels.
 
 * [**TeamSpeak**](https://teamspeak.com/en/) – Use crystal clear Sound to communicate with your Team Mates cross–platform with military–grade Security, Lag–free Performance & unparalleled Reliability and Uptime.
+
+* [**Mumble**](https://www.mumble.info/) – Is a free, Open Source, Low Latency, high quality Voice Chat Application.
 <br />
 
 ## 🌐 Private Network:
