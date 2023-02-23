@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/gvVTWMj/Gaming.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Awesome-Gaming-List/blob/main/Gaming.png" width="200"></a>
 <h1 align="center"><b>Awesome Gaming List</b></h1>
 <br />
 <br />
