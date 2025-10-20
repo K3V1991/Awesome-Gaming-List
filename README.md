@@ -50,6 +50,8 @@
 
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
 
+* * [**Competitive Gaming Stats and Analytics**](https://metabot.gg) – Builds, stats, analytics, and much more for competitive gamers.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
@@ -326,4 +328,5 @@
 4. Start editing the Text of the File in the Editor
 5. Say why you're proposing the Changes and then click on Propose changes
 6. Submit the [Pull request](https://help.github.com/articles/using-pull-requests/)
+
 
