@@ -134,6 +134,8 @@
 </br>
 
 ## Mods:
+* [**Awesome Modding**](https://github.com/loicreynier/awesome-modding) - A curated list of video game modding projects and resources. 
+
 * [**Nexus Mods**](https://www.nexusmods.com/) – Platform for People around the World to share their Mods and Tools freely with other Gamers so they too can enjoy their Creations. 
 
 * [**Moddb**](https://www.moddb.com/) – Find nearly anything on this Website.
