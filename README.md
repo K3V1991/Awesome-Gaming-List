@@ -209,6 +209,9 @@
 
 * [**EarTrumpet**](https://eartrumpet.app/) – Software to help Users better manage the Controls of their Computer's Volume.
 
+* [**Mouse Polling Rate Test**](https://mousepollingratetest.com/) – Free browser-based tool to test mouse & keyboard polling rate, CPS, reaction time, and accuracy. No install required.
+
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
