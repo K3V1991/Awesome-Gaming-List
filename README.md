@@ -327,3 +327,5 @@
 5. Say why you're proposing the Changes and then click on Propose changes
 6. Submit the [Pull request](https://help.github.com/articles/using-pull-requests/)
 
+
+- [KeyboardTester.click Gaming Tools](https://keyboardtester.click) - Free browser tools for competitive gamers: TTK calculator (CS2/Valorant/Apex/CoD), eDPI calculator with cm/360, custom crosshair generator with CS2 export, mouse polling rate test, click speed test.
