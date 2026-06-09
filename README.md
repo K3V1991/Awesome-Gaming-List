@@ -304,6 +304,8 @@
 
 * [**itch.io**](https://itch.io/) – For Users to host, sell and download Indie Games.
 
+* [**VGTopup**](https://vgtopup.com/) – Global game top-up and live-app recharge shop with instant delivery for PUBG, Genshin, Honkai, MLBB, Free Fire, and 100+ titles.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
