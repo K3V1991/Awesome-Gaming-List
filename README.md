@@ -50,6 +50,8 @@
 
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
 
+* [**WhichMain**](https://whichmain.com/) – Playstyle Quiz that finds out which Character you should main across 25+ Games (Hero Shooters, MOBAs, and Fighting Games) and can translate your Main from one Game to another.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
