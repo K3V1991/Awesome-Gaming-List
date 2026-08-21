@@ -50,6 +50,8 @@
 
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
 
+* [**SkyCOTL Tools**](https://skycotl.tools/) – Free web helpers for Sky: Children of the Light, including seasonal events, candles, and in-game trackers.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
