@@ -50,6 +50,8 @@
 
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
 
+* [**Hextech Secretary 海克斯小秘书**](https://aramkit.cdqyfdbymn.me/) – Guide and Tier List Site for League of Legends' ARAM Mayhem Mode with Champion Win Rates, Builds, Skill Orders and Hextech Augment Recommendations, available in 12 Languages.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
