@@ -50,6 +50,8 @@
 
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
 
+* [**SeeMeta**](https://seemeta.com) – Daily Tier Lists and Meta Data for League of Legends, Teamfight Tactics, World of Warcraft, Brawl Stars and Anime Vanguards, rebuilt every day from ranked Match Data (ad-free, 10 Languages).
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
