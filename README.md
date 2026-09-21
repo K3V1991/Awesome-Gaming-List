@@ -304,6 +304,8 @@
 
 * [**itch.io**](https://itch.io/) – For Users to host, sell and download Indie Games.
 
+* [**Loot Games**](https://loot-games.x1vi.workers.dev/) – Free, no-sign-in Tool for comparing Game Deals across multiple Stores with useful Budget Filters.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
