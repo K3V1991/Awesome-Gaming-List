@@ -50,6 +50,8 @@
 
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
 
+* [**TeamTavern**](https://www.teamtavern.net/) – Find players, groups and communities for the games you play, by rank, role, region, language and schedule. Free and open source.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
