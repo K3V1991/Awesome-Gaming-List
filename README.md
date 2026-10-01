@@ -48,6 +48,8 @@
 
 * [**Speedrun.com**](https://www.speedrun.com/) – Toolset for building Communities around speedrunning Games. Moderators can create Leaderboards, post Resources and verify Submissions by Runners.
 
+* [**Big Walk Guide**](https://thebigwalk.world/en/achievements) – Independent bilingual (Chinese/English) guide for the co-op game Big Walk, publishing all 12 Steam achievement completion rates read from Valve’s public statistics endpoint, alongside puzzle walkthroughs, map coordinates and a dated sources page.
+
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
