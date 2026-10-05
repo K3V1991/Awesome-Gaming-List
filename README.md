@@ -237,6 +237,8 @@
 
 * [**Geek Uninstaller**](https://geekuninstaller.com/) – Clean Removal Performs deep and fast scanning and removes all Leftovers.
 
+* [**SteamRadar**](https://protagonistlabs.app/steamradar/) – Free, open-source Tray App that alerts you when a Steam Game drops into a better Price Tier or goes free, with GOG and Epic Giveaways too.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
