@@ -201,6 +201,7 @@
 </br>
 
 ## Controls:
+* [**ProbeKits Gamepad Test**](https://probekits.com/gamepad-test) – Free browser-based gamepad button, trigger and axis checks using the Gamepad API, with no download or account required.
 * [**DS4Windows**](https://ds4-windows.com/get-started/) – DS4Windows is an Gamepad Input Mapper and Virtual Emulator designed to use and connect your PlayStation Controller (DualShock 3/4 and DualSense 5) to a Windows 10 and 11 PC.
 
 * [**SharpKeys**](https://github.com/randyrants/sharpkeys) – A Utility that manages a Registry Key that allows Windows to remap one Key to any other Key.
