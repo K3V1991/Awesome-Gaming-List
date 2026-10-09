@@ -40,6 +40,8 @@
 
 * [**PCGamingWiki**](https://www.pcgamingwiki.com/wiki/Home) – The Site and its Community have attracted some of the most friendly and passionate PC Gamers motivated in helping others with their Problems.
 
+* [**PZ2 Tools**](https://pz2tools.wiki/) – Planet Zoo 2 Reference Site with the full launch Animal List (Biome, Enclosure, Conservation Status), a Co–Habitation Compatibility Checker and Release Date / System Requirements Info.
+
 * [**HowLongToBeat**](https://howlongtobeat.com/) – Find out how long a Games will take to complete.
 
 * [**Save Game World**](http://www.savegameworld.com/) – Collects a wide Database of Savegames for different Platforms including Mac, Consoles and PC.
