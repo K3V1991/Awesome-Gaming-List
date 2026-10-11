@@ -237,6 +237,8 @@
 
 * [**Geek Uninstaller**](https://geekuninstaller.com/) – Clean Removal Performs deep and fast scanning and removes all Leftovers.
 
+* [**Deep Rock Galactic Hazard Bonus Calculator**](https://smart-calculators.net/en-US/tools/deep-rock-galactic-hazard-bonus-calculator) - Set your Hazard level, modifiers, cave and warnings to get the exact reward multiplier and post-bonus Credits, Crafting Minerals and XP.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
