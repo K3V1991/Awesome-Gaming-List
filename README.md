@@ -49,6 +49,7 @@
 * [**Speedrun.com**](https://www.speedrun.com/) – Toolset for building Communities around speedrunning Games. Moderators can create Leaderboards, post Resources and verify Submissions by Runners.
 
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
+* [**WXHub**](https://wxq.whatsyour.fun/) – Fan-made companion site for the Honor of Kings auto-battler mode with a drag-and-drop comp editor, hero/item/talent encyclopedia, damage calculator and training drills.
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
