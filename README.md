@@ -50,6 +50,8 @@
 
 * [**TrendingNow.Games**](https://trendingnow.games) – See which games are gaining momentum on Steam right now, rankings are based on several metrics and updated every hour (ad-free).
 
+* [**Game V Game**](https://gamevgame.com/en) – Compare two Games side by side and get hand-written "Games like" Recommendations that say why a Match fits; about 1,000 PC Games, free, no Sign-in, English and Chinese.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
