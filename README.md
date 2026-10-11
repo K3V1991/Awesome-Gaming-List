@@ -237,6 +237,8 @@
 
 * [**Geek Uninstaller**](https://geekuninstaller.com/) – Clean Removal Performs deep and fast scanning and removes all Leftovers.
 
+* [**BluetoothHandsFreeToggle**](https://github.com/Avazbek22/BluetoothHandsFreeToggle) – Restores clear Bluetooth stereo after games or voice apps leave a Windows headset stuck in low-quality Hands-Free mode.
+
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
 </br>
