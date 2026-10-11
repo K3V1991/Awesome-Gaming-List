@@ -235,6 +235,8 @@
 
 * [**Moonlight**](https://moonlight-stream.org/) – Stream your Collection of PC Games from your GameStream-compatible PC to any supported Device and play them remotely.
 
+* [**PlayCompat**](https://playcompat.com/) – Crossplay and multiplayer compatibility decision engine solving multi-platform and cross-storefront matchmaking for PC and console squads.
+
 * [**Geek Uninstaller**](https://geekuninstaller.com/) – Clean Removal Performs deep and fast scanning and removes all Leftovers.
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
