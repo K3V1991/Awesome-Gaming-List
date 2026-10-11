@@ -102,6 +102,8 @@
 <br />
 
 ## Informations:
+* [**Gothic Remake Map**](https://gothicremakemap.com) – Interactive map of the Colony for the Gothic Remake with camp, mine, dungeon and NPC markers, filters, plus camp guides and a spoiler-light walkthrough.
+* [**Subnautica 2 Map**](https://subnautica2map.app) – Interactive map for Subnautica 2 covering biomes, resources, wrecks and leviathan zones, plus co-op base-building and survival guides.
 * [**GPU–Z**](https://www.techpowerup.com/gpuz/) – Designed for giving Users Information on their Video Cards. PC Details e.g. Memory Frequency, Core Frequency, Memory, Temperature, Fan Speeds, etc.
 
 * [**CPU–Z**](https://www.cpuid.com/softwares/cpu–z.html) – Gives you Information on your Computer. This Information includes your Processor Name, Number, Codename, Process, Package, Cache Levels and more.
