@@ -128,6 +128,7 @@
 * [**Autoruns**](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) – This Utility, which has the most comprehensive Knowledge of Auto-starting Locations of any Startup Monitor, shows you what Programs are configured to run during System Bootup or Login.
 
 * [**O&O ShutUp10++**](https://www.oo-software.com/en/shutup10) – You decide how Windows 10 and 11 should respect your Privacy by deciding which unwanted Functions should be deactivated.
+* [TF2 Config Hub](https://github.com/Tailflacaptivate/tf2-config-hub) - Autoexec generator, HUD manager and FPS presets for Team Fortress 2.
 
 **[`^        Back to Contents        ^`](#table-of-contents)**
 </br>
