@@ -51,6 +51,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=gaming.amazon.com&amp;sz=64" width="24" alt=""> | [**Prime Gaming**](https://gaming.amazon.com/home) | Free games, exclusive in-game loot and a free Twitch subscription every month — everything included with Amazon Prime. |
 | <img src="https://www.google.com/s2/favicons?domain=speedrun.com&amp;sz=64" width="24" alt=""> | [**Speedrun.com**](https://www.speedrun.com/) | Toolset for building communities around speedrunning games, with leaderboards, resources and verified runs. |
 | <img src="https://www.google.com/s2/favicons?domain=web.archive.org&amp;sz=64" width="24" alt=""> | [**TrendingNow.Games**](https://web.archive.org/web/20260607222538/https://trendingnow.games/) | See which games were gaining momentum on Steam — ad-free rankings updated hourly. **Discontinued** (link points to an archive). |
+| <img src="https://www.google.com/s2/favicons?domain=mygames.wiki&amp;sz=64" width="24" alt=""> | [**MyGamesWiki**](https://mygames.wiki/) | Game reference pages in English and Chinese, with interactive maps, an Outbound crafting calculator and a Planet Zoo 2 barrier planner. |
 
 **[⬆️ Back to Top](#table-of-contents)**
 
