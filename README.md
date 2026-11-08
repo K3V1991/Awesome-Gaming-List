@@ -231,6 +231,7 @@
 
 | | Name | Description |
 |:-:|:--|:--|
+| <img src="https://www.google.com/s2/favicons?domain=azerothsurvivors.app&amp;sz=64" width="24" alt=""> | [**Azeroth Survivors Build Calculator**](https://azerothsurvivors.app/build-calculator/) | Free, unofficial build planner for Azeroth Survivors with talent, skill and equipment selection, local saves, shareable links and PNG export. |
 | <img src="https://www.google.com/s2/favicons?domain=gamesave-manager.com&amp;sz=64" width="24" alt=""> | [**GameSave Manager**](https://www.gamesave-manager.com/) | Easily backup, restore and transfer your game saves. |
 | <img src="https://www.google.com/s2/favicons?domain=cheatengine.org&amp;sz=64" width="24" alt=""> | [**Cheat Engine**](https://cheatengine.org/index.php) | Designed to help you modify single-player games. |
 | <img src="https://www.google.com/s2/favicons?domain=playnite.link&amp;sz=64" width="24" alt=""> | [**Playnite**](https://playnite.link/) | Open source video game library manager with one simple goal: a unified interface for all of your games. |
