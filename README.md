@@ -51,7 +51,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=gaming.amazon.com&amp;sz=64" width="24" alt=""> | [**Prime Gaming**](https://gaming.amazon.com/home) | Free games, exclusive in-game loot and a free Twitch subscription every month — everything included with Amazon Prime. |
 | <img src="https://www.google.com/s2/favicons?domain=speedrun.com&amp;sz=64" width="24" alt=""> | [**Speedrun.com**](https://www.speedrun.com/) | Toolset for building communities around speedrunning games, with leaderboards, resources and verified runs. |
 | <img src="https://www.google.com/s2/favicons?domain=web.archive.org&amp;sz=64" width="24" alt=""> | [**TrendingNow.Games**](https://web.archive.org/web/20260607222538/https://trendingnow.games/) | See which games were gaining momentum on Steam — ad-free rankings updated hourly. **Discontinued** (link points to an archive). |
-| <img src="https://www.google.com/s2/favicons?domain=steam.2cstudio.app&amp;sz=64" width="24" alt=""> | [**Steam Inventory Value**](https://steam.2cstudio.app/) | Free Steam inventory value checker for CS2, Dota 2, TF2, Rust, PUBG and trading cards. No sign-in needed; also available as a [Chrome extension](https://chromewebstore.google.com/detail/bdggedaolbocnacmanlcekmeggoefgmf). |
+| <img src="https://www.google.com/s2/favicons?domain=steam.2cstudio.app&amp;sz=64" width="24" alt=""> | [**Steam Inventory Value**](https://steam.2cstudio.app/) | Free Steam inventory value checker for 14 games, from CS2, Dota 2, TF2 and Rust to Banana and Bongo Cat, plus trading cards. No sign-in needed; also available as a [Chrome extension](https://chromewebstore.google.com/detail/bdggedaolbocnacmanlcekmeggoefgmf) whose source is public. |
 
 **[⬆️ Back to Top](#table-of-contents)**
 
