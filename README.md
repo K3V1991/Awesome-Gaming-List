@@ -237,6 +237,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=wemod.com&amp;sz=64" width="24" alt=""> | [**WeMod**](https://www.wemod.com/) | Thousands of free cheats and trainers for all your favorite single-player PC games. |
 | <img src="https://www.google.com/s2/favicons?domain=moonlight-stream.org&amp;sz=64" width="24" alt=""> | [**Moonlight**](https://moonlight-stream.org/) | Stream your collection of PC games from a GameStream-compatible PC to any supported device and play them remotely. |
 | <img src="https://www.google.com/s2/favicons?domain=geekuninstaller.com&amp;sz=64" width="24" alt=""> | [**Geek Uninstaller**](https://geekuninstaller.com/) | Deep and fast scanning that removes all leftovers. |
+| <img src="https://www.google.com/s2/favicons?domain=pindrop.gg&amp;sz=64" width="24" alt=""> | [**PinDrop**](https://pindrop.gg/) | Free interactive maps and tools for survival games, read from the game files. |
 
 **[⬆️ Back to Top](#table-of-contents)**
 
