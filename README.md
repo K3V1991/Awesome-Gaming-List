@@ -114,6 +114,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=techpowerup.com&amp;sz=64" width="24" alt=""> | [**GPU-Z**](https://www.techpowerup.com/gpuz/) | Gives users detailed information on their video cards: memory and core frequency, temperatures, fan speeds and more. |
 | <img src="https://www.google.com/s2/favicons?domain=cpuid.com&amp;sz=64" width="24" alt=""> | [**CPU-Z**](https://www.cpuid.com/softwares/cpu-z.html) | Gives you information about your computer: processor name, number, codename, process, package, cache levels and more. |
 | <img src="https://www.google.com/s2/favicons?domain=hwinfo.com&amp;sz=64" width="24" alt=""> | [**HWiNFO**](https://www.hwinfo.com/) | Accurate monitoring of all system components for actual status and failure prediction, with a customizable interface and variety of options. |
+| <img src="https://www.google.com/s2/favicons?domain=rigcheckapp.com&amp;sz=64" width="24" alt=""> | [**RigCheck**](https://rigcheckapp.com/) | Checks in the browser whether your PC can run a game: detects the graphics card, compares it with official system requirements and estimates settings and FPS. Also has gamepad, keyboard and mic testers. |
 
 **[⬆️ Back to Top](#table-of-contents)**
 
