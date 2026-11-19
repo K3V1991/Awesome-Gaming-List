@@ -131,6 +131,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=razer.com&amp;sz=64" width="24" alt=""> | [**Razer Cortex**](https://www.razer.com/cortex) | Boosts your system performance and discovers the best gaming deals — all on one powerful platform. |
 | <img src="https://www.google.com/s2/favicons?domain=learn.microsoft.com&amp;sz=64" width="24" alt=""> | [**Autoruns**](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) | The most comprehensive startup monitor: shows what programs are configured to run during system bootup or login. |
 | <img src="https://www.google.com/s2/favicons?domain=oo-software.com&amp;sz=64" width="24" alt=""> | [**O&O ShutUp10++**](https://www.oo-software.com/en/shutup10) | You decide how Windows 10 and 11 should respect your privacy by deactivating unwanted functions. |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&amp;sz=64" width="24" alt=""> | [**Stutter Guard**](https://github.com/Kareem-Shabaka/stutter-guard) | Measured, reversible Windows 10/11 DPC latency and stutter tuner for gaming and real-time audio (per-core wake benchmark, CPU interrupt affinity, MSI mode, NIC RSS, and Safe Mode undo). |
 
 **[⬆️ Back to Top](#table-of-contents)**
 
