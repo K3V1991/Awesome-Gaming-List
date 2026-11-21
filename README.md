@@ -197,6 +197,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=obsproject.com&amp;sz=64" width="24" alt=""> | [**OBS Studio**](https://obsproject.com/) | Cross-platform, open-source HD streaming and recording application for capturing footage. |
 | <img src="https://www.google.com/s2/favicons?domain=streamlabs.com&amp;sz=64" width="24" alt=""> | [**Streamlabs Desktop**](https://streamlabs.com/streamlabs-live-streaming-software) | Professional software for live streaming and recording. |
 | <img src="https://www.google.com/s2/favicons?domain=getsharex.com&amp;sz=64" width="24" alt=""> | [**ShareX**](https://getsharex.com/) | Captures or records any area of your screen and shares it with a single press of a key. |
+| <img src="https://www.google.com/s2/favicons?domain=github.com&amp;sz=64" width="24" alt=""> | [**Clips Kitty**](https://github.com/ColinGPT9/clips-studio) | Free, open-source Windows app that turns recorded Twitch, Kick and YouTube streams into captioned vertical clips for Shorts, Reels and TikTok, with the webcam and the gameplay in separate halves. |
 
 **[⬆️ Back to Top](#table-of-contents)**
 
