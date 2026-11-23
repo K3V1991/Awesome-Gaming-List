@@ -185,6 +185,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=flawlesswidescreen.org&amp;sz=64" width="24" alt=""> | [**Flawless Widescreen**](https://www.flawlesswidescreen.org/) | Crafts fixes and patches allowing games to function correctly in ultra-wide, Surround and Eyefinity gaming resolutions. |
 | <img src="https://www.google.com/s2/favicons?domain=justgetflux.com&amp;sz=64" width="24" alt=""> | [**f.lux**](https://justgetflux.com/) | Adjusts the color temperature of your gaming PC depending on the time of day and the light sources around your gaming station. |
 | <img src="https://www.google.com/s2/favicons?domain=realtimesoft.com&amp;sz=64" width="24" alt=""> | [**UltraMon**](https://www.realtimesoft.com/ultramon/) | A utility for multi-monitor systems, designed to increase productivity and unlock the full potential of multiple monitors. |
+| <img src="https://www.google.com/s2/favicons?domain=emirmrkaljevic.github.io&amp;sz=64" width="24" alt=""> | [**PanelOS**](https://emirmrkaljevic.github.io/panelos-site/) | Drives small USB PC-case screens (Turing Smart Screen type) with CPU/GPU temperatures, power draw, RAM/VRAM and the song playing in Spotify with album art. Free Lite version, Pro is a one-time purchase. |
 
 **[⬆️ Back to Top](#table-of-contents)**
 
