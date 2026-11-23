@@ -50,6 +50,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=savegameworld.com&amp;sz=64" width="24" alt=""> | [**Save Game World**](http://www.savegameworld.com/) | Wide database of save games for different platforms, including PC, Mac and consoles. |
 | <img src="https://www.google.com/s2/favicons?domain=gaming.amazon.com&amp;sz=64" width="24" alt=""> | [**Prime Gaming**](https://gaming.amazon.com/home) | Free games, exclusive in-game loot and a free Twitch subscription every month — everything included with Amazon Prime. |
 | <img src="https://www.google.com/s2/favicons?domain=speedrun.com&amp;sz=64" width="24" alt=""> | [**Speedrun.com**](https://www.speedrun.com/) | Toolset for building communities around speedrunning games, with leaderboards, resources and verified runs. |
+| <img src="https://www.google.com/s2/favicons?domain=bestdaily.games&amp;sz=64" width="24" alt=""> | [**Best Daily Games**](https://bestdaily.games/) | Find daily browser puzzles by genre and check their instructions before opening the original games. |
 | <img src="https://www.google.com/s2/favicons?domain=web.archive.org&amp;sz=64" width="24" alt=""> | [**TrendingNow.Games**](https://web.archive.org/web/20260607222538/https://trendingnow.games/) | See which games were gaining momentum on Steam — ad-free rankings updated hourly. **Discontinued** (link points to an archive). |
 
 **[⬆️ Back to Top](#table-of-contents)**
