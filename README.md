@@ -100,6 +100,10 @@
 
 | | Name | Description |
 |:-:|:--|:--|
+| <img src="https://www.google.com/s2/favicons?domain=vicehints.xyz&amp;sz=64" width="24" alt=""> | [**ViceHints**](https://vicehints.xyz/) | Free unofficial GTA 6 companion with two-source verified cheats, an interactive Leonida map, tips and source-linked news. |
+
+| | Name | Description |
+|:-:|:--|:--|
 | <img src="https://www.google.com/s2/favicons?domain=cheatcodes.com&amp;sz=64" width="24" alt=""> | [**Cheatcodes**](https://www.cheatcodes.com/systems/) | Find cheats, cheat codes, achievements, trophies, unlockables, hints, easter eggs, glitches and guides. |
 | <img src="https://www.google.com/s2/favicons?domain=cheatdb.com&amp;sz=64" width="24" alt=""> | [**Cheatdb**](http://cheatdb.com/) | Cheat database for PC and console games. |
 
